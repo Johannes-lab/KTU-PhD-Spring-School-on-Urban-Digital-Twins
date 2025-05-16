@@ -14,8 +14,20 @@ https://www.bentley.com/software/itwin-synchronizer/
 and download the connector for the file format you want to work with.
 
 #### Note:
-In case you see an error message related to WMIC - Microsoft removed this from the latest Windows 11 update, please install WMIC manualy by openin the Start menu, type _optional features_ View feature and add WMIC.
+In case you see an error message related to WMIC - Microsoft removed this from the latest Windows 11 update, please install WMIC manualy by opening the Start menu, type _optional features_ View features and add WMIC.
 
+## My iTwins
+
+Sample iModels for both, the Cesium viewer and the iTwin viewer can be accessed here
+
+My iTwins | iTwin Platform https://developer.bentley.com/my-itwins/0673de9a-a480-4c57-afa1-9f2c107c536b/home/
+
+
+## Cesium
+
+Please create a free account at https://cesium.com/platform/cesium-ion/
+
+## Getting Started with the iTwin Platform
 ### For the coding part
 
 - [Node.js (LTS version)](https://nodejs.org/)
@@ -35,7 +47,7 @@ Our recommended code editor and debugger for developing iTwin.js applications. I
 
 Git is the version control system used to manage your code.
 
-## Getting Started
+### Getting Started with the iTwin Platform
 
 Guide and one-line install script
 
@@ -49,4 +61,3 @@ _make sure to change the app name before running_
 
 ---------------
 PhDSpringSchool2025
-
